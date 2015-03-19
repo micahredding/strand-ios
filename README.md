@@ -1,0 +1,2 @@
+# strand-ios
+Lifelogging app
